@@ -33,7 +33,7 @@ Machine Learning
 - Tensorflow
 - Mathjaxx
 - Wolfram 
-- Bumpy
+- Numpy
 
 ---
 ---
