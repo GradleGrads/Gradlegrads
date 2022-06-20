@@ -32,3 +32,9 @@ Machine Learning
 - Tensorflow lite
 - Tensorflow
 - Mathjaxx
+- Wolfram 
+- Bumpy
+
+---
+---
+---
