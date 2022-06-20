@@ -26,3 +26,9 @@ App build library
 - C ++
 
 -----
+ 
+Machine Learning
+
+- Tensorflow lite
+- Tensorflow
+- Mathjaxx
