@@ -25,4 +25,10 @@ Avoid Happening
 Avoid Help
 <hr>
 Avoid Sick
--------
+<hr>
+Avoid Trust
+<hr>
+Avoid Round Talks
+<hr>
+Avoid Hero Status
+<hr>
