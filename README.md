@@ -19,7 +19,10 @@
 Avoid Humans Talks
 <hr>
 Avoiding Correct 
-
-----
-------
+<hr>
+Avoid Happening
+<hr>
+Avoid Help
+<hr>
+Avoid Sick
 -------
