@@ -12,10 +12,12 @@
  💬 Finest Hour 
 
 ----
------
+----
 ------
+--------
 
-Avoid Humans 
+Avoid Humans Talks
+Avoiding Correct 
 
 ----
 ------
