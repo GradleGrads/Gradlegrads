@@ -6,7 +6,8 @@ https://docs.github.com/en/codespaces/the-githubdev-web-based-editor
 <hr>
 <h1> Code Action ^ *° </h1>
 <p>
-Web Editor </P>
+Web Editor </p>
+
 - become coder
 
 https://github.dev
