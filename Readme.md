@@ -36,6 +36,7 @@ Machine Learning
 - Tensorflow lite
 - Tensorflow
 - Mathjaxx
+- Jax ( Machine Learning Calculations Library For Superior Machine Learning Benefits ) 
 - Wolfram 
 - Numpy
 
