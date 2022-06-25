@@ -1,6 +1,10 @@
 
 <h3> Norway is Never Aloud Use </h3>
 
+<li> We Are Not Friends , Not Use Us </li>
+<li> You Will Never Come Here , Thats Fast Ensured </li>
+
+
 --------
 
 Build Generation Android for Build Gradle Apps 
