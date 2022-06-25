@@ -11,6 +11,8 @@
 <hr>
 <h4> Norge Blir Aldri Velkommen , Ingen Norske Dritt Pils Dritt </h4>
 <hr>
+<h3> Kjedelige Fylle Vrøl Knarkere , Liker ikke Dere  </h3>
+<hr>
 
 
 --------
