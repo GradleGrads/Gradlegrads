@@ -232,4 +232,5 @@ https://machinelearning.trade
 
 <li> Culture.Support 1996 - 2022 © </li>
 
+<li> Ole Olessiall : Owned Privately © </li>
 
