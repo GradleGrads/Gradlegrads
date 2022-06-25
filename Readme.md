@@ -91,7 +91,11 @@ https://github.dev
 - We Flew into Apache 
 
 <hr>
+
+<h3> Our Philosophy is Apache </h3>
+
 https://apache.org
+
 <hr>
 
 
