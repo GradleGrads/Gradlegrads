@@ -24,7 +24,7 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 
 https://gradle.org/
 
-- Flutter 
+- Flutter ( Flutter Open Source Mobile And Web ) 
 
 https://flutter.dev
 
@@ -32,31 +32,31 @@ https://flutter.dev
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
 
-- Bootstrap
+- Bootstrap ( Mobile And Web Development Framework )
 
 https://getbootstrap.com
 
-- JavaScript
-
+- JavaScript  ( Scripting Fast & Object Controll Website Features in Name of Scripting Abilitys By Code in Javascript )
+ 
 https://www.javascript.com/
 
-- Npm 
+- Npm ( Package Manager in Javascript ) 
 
 https://docs.npmjs.com/
 
-- Python
+- Python ( Python Library For Experience Gui and Ui On System Interfaces ) 
 
 https://python.org
 
-- PHP
+- PHP ( Server Language And Website Framework ) 
 
 https://www.php.net/
 
-- Lavarell
+- Lavarel ( Website Implemented Features in PhP ) 
 
 https://laravel.com/
 
-- C ++
+- C ++    ( C++ Impacts on Games and Hardware & Virtual Instances & Self Suitable C++ Features To Belong A Development Cycle In Past And Future ) 
 
 
 https://cplusplus.com/
