@@ -12,7 +12,13 @@
 <h2> Your Never Accepted In My Life </h2>
 <h2> Your Never Accepted In My Life </h2>
 <br>
-
+<br>
+<h2> Psychic Terrorist Idiots </h2>
+<br>
+<br>
+<h2> Psychic Terrorist Idiots </h2>
+<br>
+<br>
 <li> We Are Not Friends , Not Use Us </li>
 <li> You Will Never Come Here , Thats Fast Ensured </li>
 
