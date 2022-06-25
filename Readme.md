@@ -170,6 +170,19 @@ https://web.dev/learn/
 
 <br>
 
+https://www.codementor.io/projects
+
+<br>
+
+https://www.freecodecamp.org/news/tag/web-development/
+
+<br>
+
+https://www.edx.org/learn/web-development
+
+<br>
+
+
 -----------------------
 --------------------------
 -----------------------
