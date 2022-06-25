@@ -64,6 +64,9 @@
 <h4> Be Sure Norway : Your Fucking Never Going Live Good </h4>
 
 --------
+
+<h4> FUCKING STUPID TRASH PSYCHOPATS  </h4>
+
 --------
 ****
 --------
