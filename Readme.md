@@ -182,6 +182,16 @@ https://www.edx.org/learn/web-development
 
 <br>
 
+https://developer.chrome.com/docs/devtools/
+
+<br>
+
+https://egghead.io/
+
+<br>
+
+
+
 
 -----------------------
 --------------------------
