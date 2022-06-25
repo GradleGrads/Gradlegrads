@@ -121,4 +121,4 @@ https://machinelearning.trade
 
 
 <h5>  Culture.Support Are Chaining Trough Internal Repository </h5>
-<p> Culture.Support Own Repository Rights </p>
+<p> Culture.Support Own Repository Into Rights Regards Of Website We Owning </p>
