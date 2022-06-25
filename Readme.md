@@ -116,9 +116,31 @@ https://yaml.de
 
 https://get.foundation/
 
-------------------------------
+
+
+
+<br>
+
+<h4> Foundation  Css  </h4>
+
+https://get.foundation/
+
 ----------
 --------------------
+------------------------
+
+
+<h3> Tutorials & Good Tutorials  </h3>
+
+https://www.tutorialrepublic.com/
+
+https://www.w3schools.com/
+
+
+
+
+-----------------------
+--------------------------
  
 <h1> Machine Learning </h1>
 
