@@ -19,7 +19,7 @@
 
 <br>
 
-<h4> Psykopat Sammenknekte Knekkebrød Bakere Med Shit Prat Sløve Hjerner </h4>
+<h4> Psykopat Sammenknekte Knekkebrød Bakere Med Shit Prat Sløve Psykiske Hjerner </h4>
 
 <br>
 
