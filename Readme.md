@@ -14,10 +14,13 @@
 <h3> Kjedelige Fylle Vrøl Knarkere , Liker ikke Dere  </h3>
 <hr>
 
-<h4> Håper Folk Får Dårlige Knær og Spyr Tynn Grøt i Blindsonen </h4>
+<h4> Håper Folk Får Dårlige Knær og Spyr Tynn Grøt i Blindsonen Når Mørketiden Kommer </h4>
 
 
 <br>
+
+<h4> Psykopat Sammenknekke Knekkebrød Bakere Med Shit Prat Sløve Hjerner </h4>
+
 <br>
 <br>
 <br>
