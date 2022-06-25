@@ -1,3 +1,8 @@
+<h1> GradleGrads </h1>
+
+- Gradle is Building in Java Language
+- Faster Build & Package Controlls
+- Making Repository Outpacked For Linting Fast Speed Runs on Kernel
 
 ----------------
 
