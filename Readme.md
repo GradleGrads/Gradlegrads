@@ -33,13 +33,21 @@ Machine Learning
 
 - Tensorflow lite
 - Tensorflow
+
+https://www.tensorflow.org/
+
 - Mathjax 
+
+https://www.mathjax.org/
+
 - Wolfram 
 
 https://www.wolframalpha.com/
 
 
 - Numpy
+
+https://numpy.org/
 
 ---
 ---
