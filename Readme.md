@@ -35,7 +35,10 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 
 <hr>
 <p> Superior System Benefits Under Development Focus : <h4> Machine Learning </h4> </p>
-<hr>
+
+<br>
+<br>
+<br>
 
 - Tensorflow lite
 - Tensorflow
