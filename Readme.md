@@ -5,6 +5,14 @@
 <li> You Will Never Come Here , Thats Fast Ensured </li>
 
 
+
+
+<hr>
+<h4> Hate You Faggots & Shit On Your Self </h4>
+<hr>
+<hr>
+
+
 --------
 
 Build Generation Android for Build Gradle Apps 
