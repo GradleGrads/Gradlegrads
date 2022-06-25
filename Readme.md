@@ -7,8 +7,6 @@ Build Generation Android for Build Gradle Apps
 --------
 
 - Apps 
-
-
 - Android
 
 
@@ -18,8 +16,8 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 
 -----
 
-- Gradle (java build automation library)
-- Flutter
+- Gradle ( Java Build Automation library)
+- Flutter 
 - Ajax
 - Bootstrap
 - JavaScript
@@ -31,21 +29,17 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 
 -----
  
-<h3> Machine Learning </h3>
+Machine Learning
 
-<hr>
-<p> Superior System Benefits Under Development Focus : <h2> Machine Learning </h2> </p>
+- Tensorflow lite
+- Tensorflow
+- Mathjax 
+- Wolfram 
 
-<br>
-<br>
-<br>
+https://www.wolframalpha.com/
 
-- Tensorflow Lite ( Mobile Benefited Trained Neural Networks On Mobile Embeddings ) 
-- Tensorflow ( Open Source For Everyone ) 
-- Mathjax ( Browser Beauty Math Styles ) 
-- Jax ( Machine Learning Calculations Library For Superior Machine Learning Benefits ) 
-- Wolfram Alpha ( Wolfram and Math Wolfram , Implementing Study Skills in Math ) 
-- Numpy ( Python Calculus in Library Structure Python ) 
+
+- Numpy
 
 ---
 ---
@@ -137,3 +131,5 @@ https://machinelearning.trade
 <li> Culture.Support Owning Repository Into Rights Regards Of Website Culture.Support Self Owning </li>
 
 <li> Culture.Support 1996 - 2022 © </li>
+
+
