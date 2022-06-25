@@ -5,11 +5,11 @@
 <li> You Will Never Come Here , Thats Fast Ensured </li>
 
 
-
-
-<hr>
 <h4> Hate You Faggots & Shit On Your Self No Mather Appology Homo </h4>
 <hr>
+<h4> Øker Hatet Mot Homos </h4>
+<hr>
+<h4> Norge Blir Aldri Velkommen , Ingen Norske Dritt Pils Dritt </h4>
 <hr>
 
 
