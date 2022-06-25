@@ -4,6 +4,10 @@
 <h1> Fucking Terrorist Psych Nation </h1>
 
 <br>
+<h1> Sjuke Idioter Og Skadde Faenskap !!! </h1>
+<h4> Det Eneste Viktigste : Aldri Faen Ta Kontakt Sjukinger </h4>
+<br>
+<br>
 <h2> Your Never Accepted In My Life </h2>
 <br>
 <h2> Psychich Breakdown Retards </h2>
