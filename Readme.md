@@ -86,8 +86,17 @@ https://numpy.org/
 <H1> GitHub Features </h1>
 
 - GitHub Workflow
+
+https://docs.github.com/en/actions/using-workflows
+
 - GitHub Cli
+
+https://cli.github.com/
+
 - GitHub Packs
+
+
+https://github.com/features/packages
 
 ------
 
