@@ -57,7 +57,21 @@ https://laravel.com/
 https://cplusplus.com/
 
 
------
+--------------
+
+
+<h1>  Css Library We Uses : </h1>
+
+<br>
+<h2> Tailwind Css  </h2>
+
+https://tailwindcss.com/docs/responsive-design
+
+https://tailwindcss.com/docs/
+
+
+
+----------
  
 <h1> Machine Learning </h1>
 
