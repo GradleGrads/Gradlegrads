@@ -47,7 +47,27 @@
 <br>
 <br>
 
+---------
+
+<h3> We Send Millions Of Likes To Other Countries </h3>
+
+- We Like All Other Nations 
+- We Like All Other Humans
+- We Have No Problems Accept Individual From Other Nations 
+
+----------
+
+<h4> Be Sure Norway : Dont Think Of Us </h4>
+
 --------
+--------
+--------
+****
+--------
+--------
+****
+--------
+----------------
 
 Build Generation Android for Build Gradle Apps 
 
