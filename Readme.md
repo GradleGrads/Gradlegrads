@@ -81,8 +81,9 @@ https://github.dev
 
 - We Love 💕 Fans
 
-- We Build Here
-- We Build Tools
+- We Build Here Backend 
+- We Build Tools : Small Code Features : Functionalities : Editing Systems 
+- We Deploy Code Suits And Enables Small Shorts Designs We Later Needs into Our Service
 - We Build Games
 - We Build Applications
 - We Build Cloud Instances 
