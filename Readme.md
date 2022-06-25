@@ -84,6 +84,7 @@ https://github.dev
 - We Build Here Backend 
 - We Build Tools : Small Code Features : Functionalities : Editing Systems 
 - We Deploy Code Suits And Enables Small Shorts Designs We Later Needs into Our Service
+- We Storage Keeps All Our Build Data To Repush Advanced Internal Management into Api
 - We Build Games
 - We Build Applications
 - We Build Cloud Instances 
