@@ -18,6 +18,7 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 
 -----
 
+- Gradle (java build automation library)
 - Flutter
 - Ajax
 - Bootstrap
