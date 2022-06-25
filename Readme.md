@@ -8,7 +8,7 @@
 
 
 <hr>
-<h4> Hate You Faggots & Shit On Your Self </h4>
+<h4> Hate You Faggots & Shit On Your Self No Mather Appology Homo </h4>
 <hr>
 <hr>
 
