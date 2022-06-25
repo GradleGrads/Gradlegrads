@@ -1,7 +1,10 @@
 
+
+--------
+
 Build Generation Android for Build Gradle Apps 
 
-----
+--------
 
 - Apps 
 
@@ -11,7 +14,7 @@ Build Generation Android for Build Gradle Apps
 
 ----
 
-App build library
+App Build Automations Regards of <h3> Gradle Build </h3>
 
 -----
 
