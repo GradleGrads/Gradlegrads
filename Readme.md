@@ -163,7 +163,7 @@ https://apache.org
 <hr>
 
 
-<h3> The Websites Culture.Support Owning And Consentrate About : </h3>
+<h3>  Culture.Support  Website Territoriums : </h3>
 
 
 https://culture.support
