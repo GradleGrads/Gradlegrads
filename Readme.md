@@ -35,7 +35,7 @@ Machine Learning
 
 - Tensorflow lite
 - Tensorflow
-- Mathjaxx
+- Mathjax ( Browser Beauty Math Styles ) 
 - Jax ( Machine Learning Calculations Library For Superior Machine Learning Benefits ) 
 - Wolfram 
 - Numpy
