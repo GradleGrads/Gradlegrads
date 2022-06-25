@@ -27,7 +27,7 @@
 <hr>
 <h4> Øker Hatet Mot Norske Tilbake </h4>
 <hr>
-<h4> Norge Blir Aldri Velkommen , Ingen Norske Dritt Pils Dritt </h4>
+<h4> Norge Blir Aldri Velkommen , Ingen Norske Drit Tapere </h4>
 <hr>
 <h3> Kjedelige Fylle Vrøl Knarkere , Liker ikke Dere  </h3>
 <hr>
