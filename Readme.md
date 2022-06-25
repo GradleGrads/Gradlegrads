@@ -19,9 +19,12 @@
 
 <br>
 
-<h4> Psykopat Sammenknekke Knekkebrød Bakere Med Shit Prat Sløve Hjerner </h4>
+<h4> Psykopat Sammenknekte Knekkebrød Bakere Med Shit Prat Sløve Hjerner </h4>
 
 <br>
+
+<h4> Pinneved Tynne Spy Flekk Fylte Orienterings Løp Rassister </h4>
+
 <br>
 <br>
 <br>
