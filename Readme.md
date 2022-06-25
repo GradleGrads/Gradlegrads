@@ -23,7 +23,7 @@
 
 <br>
 
-<h4> Pinneved Tynne Spy Flekk Fylte Orienterings Løp Rassister </h4>
+<h4> Pinneved Tynne Orienterings Løps Rassister </h4>
 
 <br>
 <br>
