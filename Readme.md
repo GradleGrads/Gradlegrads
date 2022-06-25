@@ -120,7 +120,7 @@ https://machinelearning.trade
 
 
 
-<h5>  Culture.Support Are Chaining Trough Internal Repository Featues </h5>
+<h5>  Culture.Support Are Chaining Trough Internal Repository Features </h5>
 
 <li> Culture.Support Owning Repository Into Rights Regards Of Website Culture.Support Self Owning </li>
 
