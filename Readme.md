@@ -32,11 +32,30 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
 https://getbootstrap.com
 
 - JavaScript
+
+https://www.javascript.com/
+
 - Npm 
+
+https://docs.npmjs.com/
+
 - Python
+
+https://python.org
+
 - PHP
+
+https://www.php.net/
+
 - Lavarell
+
+https://laravel.com/
+
 - C ++
+
+
+https://cplusplus.com/
+
 
 -----
  
