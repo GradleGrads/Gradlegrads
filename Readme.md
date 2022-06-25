@@ -44,8 +44,8 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 - Tensorflow ( Open Source For Everyone ) 
 - Mathjax ( Browser Beauty Math Styles ) 
 - Jax ( Machine Learning Calculations Library For Superior Machine Learning Benefits ) 
-- Wolfram 
-- Numpy
+- Wolfram Alpha ( Wolfram and Math Wolfram , Implementing Study Skills in Math ) 
+- Numpy ( Python Calculus in Library Structure Python ) 
 
 ---
 ---
