@@ -104,7 +104,13 @@ Android Package 📦
 
 - Build Gradle
 
+
+https://developer.android.com/studio/releases/gradle-plugin
+
 - Kernel Automation
+
+
+https://developer.android.com/training/testing/other-components/ui-automator
 
 
 -----------------
