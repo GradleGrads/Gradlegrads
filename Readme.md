@@ -59,9 +59,14 @@ https://cplusplus.com/
 
 -----
  
-Machine Learning
+<h1> Machine Learning </h1>
 
-- Tensorflow lite
+<hr>
+
+- Tensorflow Lite
+
+https://www.tensorflow.org/lite/
+
 - Tensorflow
 
 https://www.tensorflow.org/
