@@ -11,8 +11,7 @@ Build Generation Android for Build Gradle Apps
 
 - Android
 
-https://android.com
-
+https://developer.android.com/
 
 ----
 
