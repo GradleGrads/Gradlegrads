@@ -57,10 +57,12 @@ https://www.php.net/
 https://laravel.com/
 
 
+- C ++  ( C++ Impacts on Games and Hardware & Virtual Instances & Self Suitable C++ Features To Belong A Development Cycle In Past And Future ) 
+
+
+
 https://cplusplus.com/
 
-
-- C ++  ( C++ Impacts on Games and Hardware & Virtual Instances & Self Suitable C++ Features To Belong A Development Cycle In Past And Future ) 
 
 
 
