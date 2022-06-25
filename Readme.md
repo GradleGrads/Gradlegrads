@@ -40,8 +40,8 @@ App Build Automations Regards of <h3> Gradle Build </h3>
 <br>
 <br>
 
-- Tensorflow lite
-- Tensorflow
+- Tensorflow Lite ( Mobile Benefited Trained Neural Networks On Mobile Embeddings ) 
+- Tensorflow ( Open Source For Everyone ) 
 - Mathjax ( Browser Beauty Math Styles ) 
 - Jax ( Machine Learning Calculations Library For Superior Machine Learning Benefits ) 
 - Wolfram 
