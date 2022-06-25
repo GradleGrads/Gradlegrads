@@ -1,6 +1,13 @@
 
 <h3> Norway is Never Aloud Use </h3>
 
+<h1> Fucking Terrorist Psych Nation </h1>
+
+<br>
+<h2> Your Never Accepted In My Life </h2>
+<br>
+<br>
+
 <li> We Are Not Friends , Not Use Us </li>
 <li> You Will Never Come Here , Thats Fast Ensured </li>
 
