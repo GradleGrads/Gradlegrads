@@ -136,7 +136,18 @@ https://get.foundation/
 <h1> Website Developer Tutorials ( Source Code Projects )  </h1>
 
 <br>
+
+https://www.coursera.org/
+
+
 <br>
+
+https://www.udemy.com/
+
+<br>
+
+https://www.codecademy.com/
+
 <br>
 
 https://www.tutorialrepublic.com/
@@ -145,6 +156,9 @@ https://www.w3schools.com/
 
 https://code-projects.org/c/languages/project/phpprojects/
 
+<br>
+
+https://www.skillshare.com/
 
 -----------------------
 --------------------------
