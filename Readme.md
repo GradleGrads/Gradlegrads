@@ -121,6 +121,7 @@ https://machinelearning.trade
 
 
 <h5>  Culture.Support Are Chaining Trough Internal Repository Featues </h5>
-<p> Culture.Support Owning Repository Into Rights Regards Of Website We Owning </p>
+
+<li> Culture.Support Owning Repository Into Rights Regards Of Website Culture.Support Self Owning </li>
 
 <li> Culture.Support 1996 - 2022 © </li>
