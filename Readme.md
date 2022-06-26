@@ -1,55 +1,71 @@
 <h1> GradleGrads </h1>
 
-- Gradle is Building in Java Language
-- Faster Build & Package Controls By Automations
-- Making Repository Outpacked For Linting Fast Speed Runs on Kernel
+<h3> What is Included In Repository ? </h3>
+
+<li> Repository Info </li>
+<li> Repository Guide </li>
+<li> Repository Explenation </li>
+<li> What We Doing Inside Repository </li>
+<li> Build Information and Developer Agenda </li>
 
 ----------------
 
-Build Generation Android for Build Gradle Apps 
+Build Android Applications Like A Android Developer
 
 
 - Android
 
 https://developer.android.com/
 
-----
 
-App Build Automations Regards of <h3> Gradle Build </h3>
 
------
+------------------------
+
+<h3> Developer Tools :  </h3>
+
+------------------------
+
+
 
 - Gradle ( Java Build Automation library)
 
 https://gradle.org/
 
+
 - Flutter ( Flutter Open Source Mobile And Web ) 
 
 https://flutter.dev
+
 
 - Ajax
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
 
+
 - Bootstrap ( Mobile And Web Development Framework )
 
 https://getbootstrap.com
+
 
 - JavaScript  ( Scripting Fast & Object Controll Website Features in Name of Scripting Abilitys By Code in Javascript )
  
 https://www.javascript.com/
 
+
 - Npm ( Package Manager in Javascript ) 
 
 https://docs.npmjs.com/
+
 
 - Python ( Python Library For Experience Gui and Ui On System Interfaces ) 
 
 https://python.org
 
+
 - PHP ( Server Language And Website Framework ) 
 
 https://www.php.net/
+
 
 - Lavarel ( Website Implemented Features in PhP ) 
 
@@ -57,8 +73,6 @@ https://laravel.com/
 
 
 - C ++  ( C++ Impacts on Games and Hardware & Virtual Instances & Self Suitable C++ Features To Belong A Development Cycle In Past And Future ) 
-
-
 
 https://cplusplus.com/
 
@@ -120,17 +134,10 @@ https://get.foundation/
 
 
 
-----------
---------------------
 ------------------------
-----------
---------------------
 ------------------------
-----------
---------------------
 ------------------------
-----------
---------------------
+****
 ------------------------
 
 <h1> Website Developer Tutorials / Education Links  </h1>
