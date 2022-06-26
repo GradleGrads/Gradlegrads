@@ -16,25 +16,12 @@
 <hr>
 <br>
 
-- [x] Crime Reports
-- [x] Update Criminal Hindering
-- [x] Stopp Norway & Banning Norway
-- [x] Stopp Let Norway Scam Others
-- [x] Stopp Comminication
-- [x] Stopp The Silly Norway
 
 <br>
 
-- [x] Stoppet Like Norge
-- [x] Stopp its Not Positive Norway
-- [x] Stopp Help Norway
+- [x] Sensurert 
 
 <br>
-
-- [x] Stopp Belive On Norway
-- [x] Not More Positive
-- [x] Bye Bye 
-
 <hr>
 <br>
 
@@ -100,28 +87,9 @@
 
 <hr>
 
-<h4>  We Crime Report Norway 5,2 Million Reports Week </h4>
-<hr>
-<h4> Norway is Bannedd </h4> 
-<hr>
 
-| Dayli Crime Report   |   Description   |
-| -------------------- | --------------- |
-| Norway               | Fraud           |
-| Risk                 | Scams           |
-| Investment Scamers   | Funding         |
-| ....                 | .....           |
-| Often Issues         | Finance Fraud   |
-| Status               | White Colar     |
-| ........             | .........       |
-| Crimes               | Scams           |
-| Business Fraud       | Profit Fraud    |
-| ....                 | .....           |
-| Crime Status Norway  | Extreme Criminal|
-| Status               | Unlegal         |
-| 5 Million Swindlers  | Unlegal         |
-| Other Crime          | Norway Scams    |
-| Reports              | 5,2 Million Week|
+
+
 
 ------------------
 
