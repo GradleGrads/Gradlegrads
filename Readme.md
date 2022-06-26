@@ -76,6 +76,31 @@
 
 ----------------
 
+
+
+| Dayli Crime Report   |   Description   |
+| -------------------- | --------------- |
+| Norway               | Fraud           |
+| Risk                 | Scams           |
+| Investment Scamers   | Funding         |
+| ....                 | .....           |
+| Often Issues         | Finance Fraud   |
+| Status               | White Colar     |
+| ........             | .........       |
+| Crimes               | Scams           |
+| Business Fraud       | Profit Fraud    |
+| ....                 | .....           |
+| Crime Status Norway  | Criminal        |
+| Status               | Unlegal         |
+
+
+
+------------------
+
+
+
+
+
 Build Android Applications Like A Android Developer
 
 
