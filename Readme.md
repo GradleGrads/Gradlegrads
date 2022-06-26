@@ -362,6 +362,24 @@ https://github.dev
 
 <hr>
 
+
+<li>  We Develop & Maintaing On Regulary Basis  </li>
+<li>  Code And Forks </li>
+<li>  Stars and Repository </li>
+<li>  Educations   </li>
+<li>  Developer Tasks </li>
+<li>  Frameworks </li>
+<li>  Code Tools  </li>
+<li>  Developer Inclusive Mathers  </li>
+<li>  Management Of Website </li>
+<li>  Coding Summer   </li>
+<li>  Trust Involvement & Trust Results  </li>
+<li>  Trust Development & Inclusive Roles  </li>
+
+
+<hr>
+
+
 <h2>  Apache is Selected Development Philosophy Foundation </h2>
 
 
@@ -436,42 +454,6 @@ https://machinelearning.trade
 <br>
 
 
-
-<li>  We Develop & Maintaing On Regulary Basis  </li>
-
-
-<li>  Code And Forks </li>
-
-
-<li>  Stars and Repository </li>
-
-
-<li>  Educations   </li>
-
-
-<li>  Developer Tasks </li>
-
-
-<li>  Frameworks </li>
-
-
-<li>  Code Tools  </li>
-
-
-<li>  Developer Inclusive Mathers  </li>
-
-
-
-<li>  Management Of Website </li>
-
-
-<li>  Coding Summer   </li>
-
-
-<li>  Trust Involvement & Trust Results  </li>
-
-
-<li>  Trust Development & Inclusive Roles  </li>
 
 
 
