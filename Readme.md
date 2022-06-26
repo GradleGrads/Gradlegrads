@@ -24,6 +24,17 @@
 - [x] Stopp The Silly Norway
 
 <br>
+
+- [x] Stoppet Like Norge
+- [x] Stopp its Not Positive Norway
+- [x] Stopp Help Norway
+
+<br>
+
+- [x] Stopp Belive On Norway
+- [x] Not More Positive
+- [x] Bye Bye 
+
 <hr>
 <br>
 
