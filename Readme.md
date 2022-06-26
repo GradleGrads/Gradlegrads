@@ -368,9 +368,23 @@ https://github.dev
 
 <hr>
 
-<h3> Our Philosophy is Apache </h3>
+<h1>  Apache is Philosophy </h1>
 
 https://apache.org
+
+
+
+<li> Apache Server </li>
+<li> Apache Database </li>
+<li> Apache Cluster </li>
+<li> Apache Big Data </li>
+<li> Apache Machine Learning </li>
+<li> Apcache Monitor </li>
+<li> Apache Apps </li>
+<li> Apache Configs </li>
+<li> Apache Library </li>
+<li> Apache Structure </li>
+
 
 <hr>
 
