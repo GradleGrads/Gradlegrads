@@ -14,6 +14,11 @@
 <li> Build Information and Developer Agenda </li>
 
 <hr>
+
+- [x] Crime Reports
+- [x] Update Criminal Hindering
+- [x] Stopp Norway & Banning Norway
+
 <br>
 
 
