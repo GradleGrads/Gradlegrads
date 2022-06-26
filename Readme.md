@@ -370,6 +370,14 @@ https://github.dev
 
 <h1>  Apache is Development Philosophy Foundation </h1>
 
+<p> Because of Great Developer Variables </p>
+<li>  Enabling Range Of Strategic Reasonings </li>
+<li> Solving in Mather of Project Outcome </li>
+
+<li> Setting Up Big Business  </li>
+<li> Making Enterprice Agenda Flow in Streams </li>
+
+
 https://apache.org
 
 
