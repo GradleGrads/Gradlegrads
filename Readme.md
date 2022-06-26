@@ -368,7 +368,7 @@ https://github.dev
 
 <hr>
 
-<h1>  Apache is Development Philosophy Foundation </h1>
+<h3>  Apache is Selected Development Philosophy Foundation </h3>
 
 <p> Because of Great Developer Variables </p>
 <li>  Enabling Range Of Strategic Reasonings </li>
@@ -377,10 +377,13 @@ https://github.dev
 <li> Setting Up Big Business  </li>
 <li> Making Enterprice Agenda Flow in Streams </li>
 
+<br>
+<br>
 
 https://apache.org
 
-
+<br>
+<br>
 
 <li> Apache Server </li>
 <li> Apache Database </li>
