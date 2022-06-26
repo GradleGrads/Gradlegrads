@@ -13,6 +13,44 @@
 <li> What We Doing Inside Repository </li>
 <li> Build Information and Developer Agenda </li>
 
+
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Body        | Text        |
+| Footer      | Title       |
+| ....        | .....       |
+| Code        | Text        |
+| Library     | Maps        |
+| ....        | .....       |
+| Technology  | Functions   |
+| Scripts     | Text        |
+| Method      | Running     |
+
+
+
+| Developer   | Description |
+| ----------- | ----------- |
+| Open Source | Artificial  |
+| Open Source | Development |
+| Open Source | Css Style   |
+| Open Source | Technology  |
+| Open Source | Internal    |
+| ....        | .....       |
+| Open Source | Automation  |
+| Open Source | Strategy    |
+| ....        | .....       |
+| Open Source | System      |
+| Open Source | Virtual     |
+| Open Source | Game Engine |
+| Open Source | Development |
+| Open Source | Api         |
+| Open Source | App         |
+| Open Source | Artificial  |
+| Open Source | Web App     |
+
 ----------------
 
 Build Android Applications Like A Android Developer
@@ -627,15 +665,3 @@ Any Killing Individual Breathing or No Breathing or Any Disability or Ability
 
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Body        | Text        |
-| Footer      | Title       |
-| ....        | .....       |
-| Code        | Text        |
-| Library     | Maps        |
-| ....        | .....       |
-| Technology  | Functions   |
-| Scripts     | Text        |
-| Method      | Running     |
