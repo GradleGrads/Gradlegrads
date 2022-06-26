@@ -76,7 +76,12 @@
 
 ----------------
 
+<hr>
 
+<h4>  We Crime Report Norway 5,2 Million Reports Week </h4>
+<hr>
+<h4> Norway is Bannedd </h4> 
+<hr>
 
 | Dayli Crime Report   |   Description   |
 | -------------------- | --------------- |
