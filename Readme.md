@@ -368,7 +368,7 @@ https://github.dev
 
 <hr>
 
-<h1>  Apache is Philosophy </h1>
+<h1>  Apache is Development Philosophy Foundation </h1>
 
 https://apache.org
 
