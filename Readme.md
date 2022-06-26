@@ -562,6 +562,15 @@ https://machinelearning.trade
 
 <br>
 
+```
+
+ Nothing Human Rights Breaking Agenda 
+
+
+```
+
+<br>
+
 <li>  Nothing Harming   </li>
 <li>  Nothing Food Involving Killing Animals or Humans  </li>
 <li>  Nothing Law Breaking </li>
