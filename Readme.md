@@ -468,23 +468,10 @@ https://machinelearning.trade
 <hr>
 <hr>
 
-<h1> Developer Missions </h1> <u>Criterium Free</u> 
+<h1> Developer Missions </h1> 
 
+<h2> Criterium Free </h2>
 
-<html>
-<head>
-<style>
-.underline {
-	text-decoration: underline;
-}
-</style>
-</head>
-<body>
-You can use this class to 
-<div class="underline">Criterium Free </div> 
-<div class="underline">Criterium Free </div> 
-</body>
-</html>
 
 
 <hr>
