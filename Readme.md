@@ -403,15 +403,49 @@ https://machinelearning.trade
 
 <hr>
 
-
-
+<hr>
+<hr>
+<hr>
 <hr>
 
-<h5>  Culture.Support Are Chaining Trough Internal Repository Features </h5>
+<li>  We Develop & Maintaing On Regulary Basis  </li>
 
-<li> Culture.Support Owning Repository Into Rights Regards Of Website Culture.Support Self Owning </li>
 
-<li> Culture.Support 1996 - 2022 © </li>
+<li>  Code And Forks </li>
 
-<li> Ole Olessiall : Owned Privately © </li>
+
+<li>  Stars and Repository </li>
+
+
+<li>  Educations   </li>
+
+
+<li>  Developer Tasks </li>
+
+
+<li>  Frameworks </li>
+
+
+<li>  Code Tools  </li>
+
+
+<li>  Developer Inclusive Mathers  </li>
+
+
+
+<li>  Management Of Website </li>
+
+
+<li>  Coding Summer   </li>
+
+
+<li>  Trust Involvement & Trust Results  </li>
+
+
+<li>  Trust Development & Inclusive Roles  </li>
+
+
+
+
+
 
