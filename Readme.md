@@ -15,6 +15,21 @@
 
 <hr>
 <br>
+
+
+| Private Owned    | Description |
+| ---------------- | ----------- |
+| Culture.Support  | Ownership   |
+| Name             | Text        |
+| Footer           | Title       |
+| ....             | .....       |
+| Code             | Text        |
+| Library          | Maps        |
+| ....             | .....       |
+| Technology       | Functions   |
+| Scripts          | Text        |
+| Method           | Running     |
+
 <br>
 <br>
 
