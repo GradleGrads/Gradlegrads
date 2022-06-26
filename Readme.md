@@ -461,7 +461,7 @@ https://machinelearning.trade
 <hr>
 <hr>
 
-<h1> Developer Missions <u> Criterium Free </u> </h1>
+<h1> Developer Missions </h1> <u>Criterium Free</u> 
 
 <hr>
 
