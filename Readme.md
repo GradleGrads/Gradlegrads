@@ -19,6 +19,9 @@
 - [x] Crime Reports
 - [x] Update Criminal Hindering
 - [x] Stopp Norway & Banning Norway
+- [x] Stopp Let Norway Scam Others
+- [x] Stopp Comminication
+- [x] Stopp The Silly Norway
 
 <br>
 <hr>
