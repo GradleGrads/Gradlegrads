@@ -95,7 +95,7 @@
 | Crimes               | Scams           |
 | Business Fraud       | Profit Fraud    |
 | ....                 | .....           |
-| Crime Status Norway  | Criminal        |
+| Crime Status Norway  | Extreme Criminal|
 | Status               | Unlegal         |
 | 5 Million Swindlers  | Unlegal         |
 | Other Crime          | Norway Scams    |
