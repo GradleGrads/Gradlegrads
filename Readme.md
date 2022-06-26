@@ -1,7 +1,7 @@
 <h1> GradleGrads </h1>
 
 - Gradle is Building in Java Language
-- Faster Build & Package Controlls
+- Faster Build & Package Controls By Automations
 - Making Repository Outpacked For Linting Fast Speed Runs on Kernel
 
 ----------------
@@ -133,70 +133,98 @@ https://get.foundation/
 --------------------
 ------------------------
 
-<h1> Website Developer Tutorials ( Source Code Projects )  </h1>
+<h1> Website Developer Tutorials / Education Links  </h1>
 
 <br>
 
 https://www.coursera.org/
 
+<li> Courses For Education in Programming </li>
 
 <br>
 
 https://www.udemy.com/
 
+<li> Videos About Coding Tutorials in Mather of Code Language Education </li>
+
 <br>
 
 https://www.codecademy.com/
+
+<li> Tutorials For Code Academy  </li>
 
 <br>
 
 https://www.tutorialrepublic.com/
 
+<li> Tutorials For Projects with Code Language Refference and Source Code </li>
+
 <br>
 
 https://www.w3schools.com/
+
+<li> Tutorials For Projects with Code Language Refference and Source Code </li>
 
 <br>
 
 https://code-projects.org/c/languages/project/phpprojects/
 
+<li> Tutorials For Projects with Code Language Refference and Source Code </li>
+
 <br>
 
 https://www.skillshare.com/
+
+<li> Tutorials For Skills To Share </li>
 
 <br>
 
 https://web.dev/learn/
 
+
+<li> Tutorials For Web Dev </li>
+
 <br>
 
 https://www.codementor.io/projects
+
+<li> Tutorials For  Code Mentor </li>
 
 <br>
 
 https://www.freecodecamp.org/news/tag/web-development/
 
+<li> Free Code Camp Tutorials For Web Development </li>
+
 <br>
 
 https://www.edx.org/learn/web-development
+
+<li> Edx Education Tutorials For Web Development </li>
 
 <br>
 
 https://developer.chrome.com/docs/devtools/
 
+<li> Tutorials For Browser Development </li>
+
 <br>
 
-https://egghead.io/
+https://egghead.io
+
+<li> Tutorials For Web Development </li>
 
 <br>
 
 https://www.fiverr.com/
 
+<li> Hire App and Web App Developer  </li>
+
 <br>
 
 https://webdesigner.withgoogle.com/
 
-<li> Google Webdesign Tool 
+<li> Google Webdesign Tool </li>
 
 <br>
  
