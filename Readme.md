@@ -21,7 +21,7 @@
 | ---------------- | ----------- |
 | Culture.Support  | Ownership   |
 | Name             | Olessiall   |
-| Year             | 1996        |
+| Year             | 1996 - 2022 |
 | ....             | .....       |
 | Corruption       | None        |
 | Status           | Good        |
