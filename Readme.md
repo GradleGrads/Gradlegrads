@@ -330,13 +330,6 @@ https://developer.android.com/studio/releases/gradle-plugin
 https://developer.android.com/training/testing/other-components/ui-automator
 
 
------------------
-
-
-<hr>
-<h1> Culture.Suppport </h1>
-<br>
-<br>
 
 - Web Editor 
 - Developer Insertions 
