@@ -255,6 +255,13 @@ https://education.github.com/
 
 <br>
 
+
+
+https://www.w3schools.blog/
+
+<li>  Blogs About Full Development Topics </li>
+
+<br>
 -----------------------
 --------------------------
 -----------------------
