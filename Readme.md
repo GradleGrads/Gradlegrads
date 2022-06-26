@@ -454,17 +454,26 @@ https://apache.org
 
 https://culture.support
 
+<li> Culture.Support  </li>
+
 <br>
 
 https://cultureauction.com
 
+<li> Auctions Features To Withold Partnership  </li>
+
 <br>
 
-https://auctionjs.org
+https://Auctionjs.org
+
+<li> Auctions Enabled By Javascript </li>
 
 <br>
 
 https://QuantumAuction.org
+
+
+<li> Quantum Computed Auctions  </li>
 
 <br>
 
