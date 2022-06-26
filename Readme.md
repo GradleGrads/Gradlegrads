@@ -590,7 +590,7 @@ https://machinelearning.trade
 
 ```
 
- Nothing Species or Incect Killing or Bugs Killing or 
+Nothing Species or Incect Killing or Bugs Killing or 
  
 Any Killing Individual Breathing or No Breathing or Any Disability or Ability
 
