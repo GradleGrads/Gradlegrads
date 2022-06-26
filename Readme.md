@@ -233,6 +233,23 @@ https://webdesigner.withgoogle.com/
  <li> code tutorials </li>
 
 <br>
+
+
+https://directory.fsf.org/wiki/Main_Page
+
+
+ <li> Free Software Foundation Education </li>
+ 
+ <br>
+ 
+ https://www.education.com/
+ 
+ <li> Education Bringed To Learn Education In Programming Sitations </li>
+
+<br>
+
+
+
 -----------------------
 --------------------------
 -----------------------
