@@ -553,7 +553,12 @@ https://machinelearning.trade
 <li>  Nothing Drugs  </li>
 <li>  Nothing Life Threats  </li>
 <li>  Nothing Chemicals or Narcotics </li>
-
+<li> Nothing Evil Against Humans </li>
+<li> Nothing Racial Hate </li>
+<li> Nothing Violence </li>
+<li> Nothing Politics </li>
+<li> Nothing Criminality </li>
+<li> Nothing Unfriendly Attitude </li>
 
 <br>
 
