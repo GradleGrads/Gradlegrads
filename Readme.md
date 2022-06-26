@@ -595,8 +595,20 @@ https://machinelearning.trade
 Any Killing Individual Breathing or No Breathing or Any Disability or Ability
 
 
+
 ```
 
+
+
+
+
+```
+
+ Nothing Hate or Racism or Fake News or Agressive Abuse or Sexual Pervertism 
+ Nothing Perverse or Sexual Offending or Religion Sexual Abuse
+
+
+```
 
 
 <br>
