@@ -395,8 +395,17 @@ https://apache.org
 <hr>
 
 
-<h1>  Culture.Support / Own Owned Website Territorium  </h1>
+<h1>  Culture.Support  </h1>
 
+<br>
+
+<h3>  Development Focus Areas  : </h3>
+
+<br>
+
+<li> The Real Projects For Results </li>
+
+<br>
 
 https://culture.support
 
@@ -471,4 +480,20 @@ https://machinelearning.trade
 <hr>
 <hr>
 
+<br>
+<li>  Legal Reasons </li>
+<li>  Legal Development   </li>
+<li>  Safe Attitude    </li>
+<li>  Secure Development    </li>
+<li>  Honest Good Reasonings   </li>
+<li>  Friendly    </li>
+<li>  Help With Results </li>
 
+<br>
+<li>  Open Attitude </li>
+<li>  Fair Inclusive Reasons   </li>
+<li>  Fair Priority Agaenda   </li>
+<li>  Fair Knowlegde    </li>
+<li>  Fair Transperancy   </li>
+<li>  Fair Goals   </li>
+<li>  Fair Possible  </li>
