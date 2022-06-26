@@ -462,16 +462,27 @@ https://machinelearning.trade
 <hr>
 <hr>
 
+<h3> Legal Developer Agenda in Open Source  </h3>
+
 <br>
+<br>
+
 <li>  Legal Reasons </li>
+<li> Legal Strategy Positions </li>
 <li>  Legal Development   </li>
 <li>  Safe Attitude    </li>
 <li>  Secure Development    </li>
 <li>  Honest Good Reasonings   </li>
 <li>  Friendly    </li>
 <li>  Help With Results </li>
+<li> Maintain  Support </li>
 
 <br>
+
+<h3> Respect Developer Roles in Open Source  </h3>
+
+<br>
+
 <li>  Open Attitude </li>
 <li>  Fair Inclusive Reasons   </li>
 <li>  Fair Priority Agaenda   </li>
@@ -479,3 +490,11 @@ https://machinelearning.trade
 <li>  Fair Transperancy   </li>
 <li>  Fair Goals   </li>
 <li>  Fair Possible  </li>
+<li>  Fair Beginning </li>
+<li>  Fair Dream Unleashing </li>
+
+
+<br>
+<br>
+<br>
+<br>
