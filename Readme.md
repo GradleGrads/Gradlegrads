@@ -283,15 +283,14 @@ https://www.w3schools.blog/
 <h1> Machine Learning </h1>
 
 
-
 - Tensorflow Lite
 
 https://www.tensorflow.org/lite/
 
+
 - Tensorflow
 
 https://www.tensorflow.org/
-
 
 
 - TensorFlow Javascript
@@ -312,9 +311,16 @@ https://www.wolframalpha.com/
 
 https://numpy.org/
 
----
----
----
+
+
+----------------
+----------------
+----------------
+----------------
+----------------
+
+
+
 
 <H1> GitHub Features </h1>
 
@@ -328,20 +334,17 @@ https://cli.github.com/
 
 - GitHub Packs
 
-
 https://github.com/features/packages
 
-------
 
 Android Package 📦
 
 - Build Gradle
 
-
 https://developer.android.com/studio/releases/gradle-plugin
 
-- Kernel Automation
 
+- Kernel Automation
 
 https://developer.android.com/training/testing/other-components/ui-automator
 
@@ -351,7 +354,6 @@ https://developer.android.com/training/testing/other-components/ui-automator
 - Developer Insertions 
 - Code inside Browser
 
-<br>
 <br>
 
 https://github.dev
