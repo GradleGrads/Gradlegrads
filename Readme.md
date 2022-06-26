@@ -463,6 +463,23 @@ https://machinelearning.trade
 
 <h1> Developer Missions </h1> <u>Criterium Free</u> 
 
+
+<html>
+<head>
+<style>
+.underline {
+	text-decoration: underline;
+}
+</style>
+</head>
+<body>
+You can use this class to 
+<div class="underline">Criterium Free </div> 
+<div class="underline">Criterium Free </div> 
+</body>
+</html>
+
+
 <hr>
 
 <h3> Legal Developer Agenda in Open Source  </h3>
