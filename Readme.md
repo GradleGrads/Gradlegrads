@@ -13,7 +13,10 @@
 <li> What We Doing Inside Repository </li>
 <li> Build Information and Developer Agenda </li>
 
-
+<hr>
+<br>
+<br>
+<br>
 
 
 | Syntax      | Description |
