@@ -93,7 +93,8 @@
 | Crime Status Norway  | Criminal        |
 | Status               | Unlegal         |
 | 5 Million Swindlers  | Unlegal         |
-
+| Other Crime          | Norway Scams    |
+| Reports              | 5,2 Million Week|
 
 ------------------
 
