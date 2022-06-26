@@ -28,6 +28,8 @@
 | ....             | .....       |
 | Private Support  | Not Avaible |
 | Business Support | Not Avaible |
+| Chat Support     | Not Avaible |
+| Other Support    | Not Avaible |
 
 <br>
 <br>
