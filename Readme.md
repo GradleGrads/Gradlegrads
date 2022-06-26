@@ -5,13 +5,6 @@
 ----------------
 
 <h1> GradleGrads </h1>
-
-----------------
-----------------
-----------------
-----------------
-----------------
-
 <h3> What is Included In Repository ? </h3>
 
 <li> Repository Info </li>
