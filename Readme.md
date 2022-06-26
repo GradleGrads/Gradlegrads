@@ -544,5 +544,24 @@ https://machinelearning.trade
 
 <br>
 <br>
+
+<h3> What We Dont Promoting in Our Agenda </h3>
+
+<li>  Nothing Cruelty Against Animals    </li>
+<li>  Nothing Human Trading of Slavery  </li>
+<li>  Nothing Prostitutions   </li>
+<li>  Nothing Drugs  </li>
+<li>  Nothing Life Threats  </li>
+<li>  Nothing Chemicals or Narcotics </li>
+
+
 <br>
+
+<li>  Nothing Harming   </li>
+<li>  Nothing Food Involving Killing Animals or Humans  </li>
+<li>  Nothing Law Breaking </li>
+<li>  Nothing Danger Consumptions </li>
+<li>  Nothing Evil   </li>
+<li>  Nothing Evil Spells or Psychic Evil Spells </li>
+
 <br>
