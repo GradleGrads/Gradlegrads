@@ -13,11 +13,13 @@
 <li> What We Doing Inside Repository </li>
 <li> Build Information and Developer Agenda </li>
 
-<hr>
+
 
 - [x] Crime Reports
 - [x] Update Criminal Hindering
 - [x] Stopp Norway & Banning Norway
+
+<hr>
 
 <br>
 
