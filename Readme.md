@@ -92,7 +92,7 @@
 | ....                 | .....           |
 | Crime Status Norway  | Criminal        |
 | Status               | Unlegal         |
-
+| 5 Million Swindlers  | Unlegal         |
 
 
 ------------------
