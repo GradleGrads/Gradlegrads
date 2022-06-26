@@ -20,15 +20,14 @@
 | Private Owned    | Description |
 | ---------------- | ----------- |
 | Culture.Support  | Ownership   |
-| Name             | Text        |
-| Footer           | Title       |
+| Name             | Olessiall   |
+| Year             | 1996        |
 | ....             | .....       |
-| Code             | Text        |
-| Library          | Maps        |
+| Corruption       | None        |
+| Status           | Good        |
 | ....             | .....       |
-| Technology       | Functions   |
-| Scripts          | Text        |
-| Method           | Running     |
+| Private Support  | Not Avaible |
+| Business Support | Not Avaible |
 
 <br>
 <br>
