@@ -353,18 +353,19 @@ https://github.dev
 
 <hr>
 
-<h1> About Us : </h1>
+<h1> About Us : Culture.Support </h1>
 
 - We Love 💕 Fans
-
-- We Build Here Backend 
-- We Build Tools : Small Code Features : Functionalities : Editing Systems 
+- We Build Here Backend & Frontend
+- We Build Tools : Small Code Features : Functional Programming : Editing Systems : Short Codes
 - We Deploy Code Suits And Enables Small Shorts Designs We Later Needs into Our Service
 - We Storage Keeps All Our Build Data To Repush Advanced Internal Management into Api Features
 - We Build Games
 - We Build Applications
-- We Build Cloud Instances 
-- We Flew into Apache 
+- We Build Cloud Software
+- We Are Built on Apache 
+- Apache And Open Source is Our Core Agenda 
+- Enabling Blog and Social Media And Other Advance Clusterings 
 
 <hr>
 
