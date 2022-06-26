@@ -460,6 +460,9 @@ https://machinelearning.trade
 <hr>
 <hr>
 <hr>
+
+<h1> Developer Missions Criterium Free  </h1>
+
 <hr>
 
 <h3> Legal Developer Agenda in Open Source  </h3>
