@@ -621,3 +621,21 @@ Any Killing Individual Breathing or No Breathing or Any Disability or Ability
 <li>  Nothing Evil Spells or Psychic Evil Spells </li>
 
 <br>
+
+
+
+
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Body        | Text        |
+| Footer      | Title       |
+| ....        | .....       |
+| Code        | Text        |
+| Library     | Maps        |
+| ....        | .....       |
+| Technology  | Functions   |
+| Scripts     | Text        |
+| Method      | Running     |
