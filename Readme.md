@@ -464,15 +464,19 @@ https://auctionjs.org
 
 <br>
 
-https://quantumAuction.org
+https://QuantumAuction.org
 
 <br>
 
 https://databolig.store
 
+<li> Virtual Computations Data  &  Virtual Storage Bolig </li>
+
 <br>
 
 https://databolig.com
+
+<li> Virtual Computations in Visual Outcome Effects inside Bolig </li>
 
 <br> 
 
