@@ -368,9 +368,10 @@ https://github.dev
 
 <hr>
 
-<h3>  Apache is Selected Development Philosophy Foundation </h3>
+<h2>  Apache is Selected Development Philosophy Foundation </h2>
 
-<p> Because of Great Developer Variables </p>
+
+<li> Because of Great Developer Variables </li>
 <li>  Enabling Range Of Strategic Reasonings </li>
 <li> Solving in Mather of Project Outcome </li>
 
