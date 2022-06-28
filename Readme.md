@@ -44,6 +44,23 @@
 <br>
 
 
+| Banned           | Method      |
+| ---------------- | ----------- |
+| Usa              | Unlegalized |
+| Norway           | Unlegalized |
+| --------         |             | 
+| ....             | .....       |
+| Norway           | Banned      |
+| Usa              | Banned      |
+| ....             | .....       |
+| Usa              | Sanctioned  |
+| Norway           | Sanctioned  |
+
+
+
+<br>
+<br>
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
