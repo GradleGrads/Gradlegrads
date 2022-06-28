@@ -1,1 +1,1 @@
-Destroy Everything In Favour Of Crushing Insane Humans
+Killer Missions is Crowded and Crowd Funded
