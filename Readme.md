@@ -44,6 +44,11 @@
 <br>
 
 
+<br>
+<p> Criminal Sanctioned Countries </p>
+<br>
+
+
 | Banned           | Method      |
 | ---------------- | ----------- |
 | Usa              | Unlegalized |
