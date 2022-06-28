@@ -19,7 +19,16 @@
 
 <br>
 
-- [x] Sensurert 
+<h4> We Never Include Somebody or Help </h4>
+
+-------
+
+<h4>  Dont Ever Become Part of Us </h4>
+
+- [x] User Sanction Premium
+- [x] We Sanctioning Crimes 
+- [x] Settle Lockdown 
+- [x] Government Crime Reports
 
 <br>
 <hr>
