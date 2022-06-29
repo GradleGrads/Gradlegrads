@@ -55,13 +55,16 @@ link url in repository descriptions
  - Include Source Code
 
 
-<h3> Make Image Sizes and Website Image Site  </h3>
+<h3> Make Image Sizes and Website Image on Website  </h3>
+
 
 - Css Background-image
 - Css Background-size
 - Css Height
 - Css Width 
-- 
+- Use Css Style
+- Use Css Class
+- Use Css Scripts
 
 ----------
 
