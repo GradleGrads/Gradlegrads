@@ -14,9 +14,16 @@ What is Project ?  👋
 
 <br>
  
- index.html 
- 
+<h4> Repository </h4>
+
+- Github Profile 
+- Setup Repository
+- Select Same Repository Name As Github User Name
+
+
  <br>
+ 
+ <h4> Next Step :  </h4>
  
  - github settings 
  - template profile
