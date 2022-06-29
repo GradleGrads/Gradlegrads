@@ -3,6 +3,10 @@
 -
 - Priority To Be Selvfish
 -
-- Priority To Forget You 
+- Priority To Forget Peoples
 -
 - Prioritiy To Never Know
+-
+- Priority To Know Less
+-
+- Priority To Dont Do Something For You 
