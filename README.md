@@ -55,6 +55,11 @@ link url in repository descriptions
 
 ----------
 
-Github Pages is Entirely Free to Host on Own Github Profile : Github.io domain 
+Github Pages is Entirely Free to Host on Own Github Profile :
+
+<br>
+
+Github.io domain 
 
 - its provided as free service by Github it self 
+- you need to develop and educate with free github user
