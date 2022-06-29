@@ -14,6 +14,15 @@ What is Project ?  👋
 
 <br>
  
- using index.html inside repository
+ index.html 
+ 
+ <br>
+ 
+ - github settings 
+ - template profile
+ - github pages url
+
+
+link url in repository descriptions
 
 
