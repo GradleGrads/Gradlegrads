@@ -9,4 +9,6 @@
 -
 - Priority To Know Less
 -
-- Priority To Dont Do Something For You 
+- Priority To Dont Do Something For Somebody
+- 
+- Priority To Absolute Silence 
