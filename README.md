@@ -33,3 +33,28 @@ What is Project ?  👋
 link url in repository descriptions
 
 
+<br>
+
+
+ <h4> After Repository Done  Setup Url </h4>
+ 
+ - Delete Readme.md 
+ - Select Themeplate 
+ - Apply a index.html file 
+
+ ------
+ 
+ Design Html5 Features inside inside index.html file .
+ 
+ - Include Bootstrap
+ - Include Javascript
+ - Include Php
+ - Include Python
+ - Include Source Code
+
+
+----------
+
+Github Pages is Entirely Free to Host on Own Github Profile 
+
+
