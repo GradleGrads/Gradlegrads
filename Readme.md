@@ -1,0 +1,8 @@
+-
+-
+-
+- Priority To Be Selvfish
+-
+- Priority To Forget You 
+-
+- Prioritiy To Never Know
