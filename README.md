@@ -1,6 +1,12 @@
 What is Project ?  👋
 
+Development Android
 
+https://developer.android.com/studio/build
+
+
+- build Gradle
+- android app structure 
 
 
 - 🌱 I’m currently Web Designer : 
