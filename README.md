@@ -6,7 +6,11 @@ https://developer.android.com/studio/build
 
 
 - build Gradle
-- android app structure 
+- Android App Structure 
+
+-------
+-----
+
 
 
 - 🌱 I’m currently Web Designer : 
