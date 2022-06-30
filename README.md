@@ -4,6 +4,8 @@ Development Android
 
 https://developer.android.com/studio/build
 
+https://developer.android.com/studio/build/dependencies
+
 
 - build Gradle
 - Android App Structure 
