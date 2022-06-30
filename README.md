@@ -34,6 +34,13 @@ https://maven.apache.org/plugins/index.html
 -----
 
 
+Gradle Documentation 
+
+https://docs.gradle.org/current/dsl/org.gradle.api.initialization.Settings.html
+
+
+------
+--------
 
 - 🌱 I’m currently Web Designer : 
 
