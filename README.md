@@ -12,6 +12,10 @@ https://developer.android.com/studio/build
 <img src="https://developer.android.com/static/images/tools/studio/project-structure_2x.png" alt="Gradle" width="300" height="400">
 
 
+<img src="https://developer.android.com/static/images/tools/studio/build-process_2x.png" alt="" width="300" height="400">
+
+
+
 -------
 -----
 
