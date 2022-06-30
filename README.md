@@ -21,6 +21,10 @@ https://developer.android.com/studio/build
 https://developer.android.com/studio/build/dependencies#sourcesets
 
 
+- Maven Repository
+
+https://maven.google.com/web/m_index.html
+
 -------
 -----
 
