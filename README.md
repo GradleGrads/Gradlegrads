@@ -1,7 +1,7 @@
 -------
 ------
 
-<H1> GradleGrads </h1>
+<H1> GradleGrads : 📱 🎓 </h1>
 
 -----
 
