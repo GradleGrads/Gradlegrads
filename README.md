@@ -7,14 +7,19 @@ https://developer.android.com/studio/build
 https://developer.android.com/studio/build/dependencies
 
 
+-------
+
 https://developer.android.com/jetpack
 
--------
 ----
 
 
 
-- build Gradle
+- Build Gradle
+- Gradle Wrapper 
+
+https://docs.gradle.org/current/userguide/gradle_wrapper.html#gradle_wrapper
+
 - Android App Structure 
 
 
