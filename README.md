@@ -20,6 +20,9 @@ https://developer.android.com/jetpack
 
 https://docs.gradle.org/current/userguide/gradle_wrapper.html#gradle_wrapper
 
+https://docs.gradle.org/current/dsl/index.html
+
+
 - Android App Structure 
 
 
