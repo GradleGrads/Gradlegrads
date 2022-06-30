@@ -25,6 +25,11 @@ https://developer.android.com/studio/build/dependencies#sourcesets
 
 https://maven.google.com/web/m_index.html
 
+
+Maven Plugins 
+
+https://maven.apache.org/plugins/index.html
+
 -------
 -----
 
