@@ -15,6 +15,11 @@ https://developer.android.com/studio/build
 <img src="https://developer.android.com/static/images/tools/studio/build-process_2x.png" alt="" width="300" height="400">
 
 
+- Debug Apps & Build Dependency 
+
+
+https://developer.android.com/studio/build/dependencies#sourcesets
+
 
 -------
 -----
