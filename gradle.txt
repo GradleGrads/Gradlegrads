@@ -10,3 +10,7 @@
 - Owning All Unbeatable 
 
 <hr>
+
+<p> Internal Text Manifest</p>
+
+<hr>
