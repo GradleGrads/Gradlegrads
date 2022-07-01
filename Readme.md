@@ -1,15 +1,4 @@
 
-<h3> As Big As Open Oxygen & No Oxygen </h3>
-
-<hr>
-
-- Hedge Bull
-- Bull 
-- Biggest Organ Specie Ever Lived
-- Bull Monster 
-- Owning All Unbeatable 
-
-<hr>
 
 Build Android Applications Like A Android Developer
 
