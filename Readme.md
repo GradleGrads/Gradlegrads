@@ -3,9 +3,11 @@
 
 <hr>
 
-- Bullied 
+- Hedge Bull
 - Bull 
 - Biggest Organ Specie Ever Lived
+- Bull Monster 
+- Owning All Unbeatable 
 
 <hr>
 
