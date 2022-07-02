@@ -12,12 +12,18 @@
 #
 
 - 🪪 Repository Licence 
-- 🪪 License to Build 
-- 🪪 License to Web 
-- 🪪 Lincese to App
-- 🪪 License to Api 
-- 🪪 License to License 
+- 🪪 Licence to Build 
+- 🪪 Licence to Web 
+- 🪪 Lincence to App
+- 🪪 Licence to Api 
+- 🪪 Licence to Functions 
+- 🪪 Licence to Structure Files 
+- 🪪 Licence to Intellectual Property 
+- 🪪 Licence to Licence
 
+
+
+Straight 
 
 -------
 
