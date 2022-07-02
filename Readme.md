@@ -231,5 +231,24 @@ https://jamstackthemes.dev/
  -------
  
  
+ Snyk Package 📦
  
  
+ https://snyk.io/advisor/
+ 
+ 
+ 
+ ---------
+ 
+ Octupus 🐙🦑
+ 
+ https://octopus.com/
+
+ 
+ -----------
+ 
+ Libs Garden 
+ 
+ https://libs.garden/
+ 
+ ---------
