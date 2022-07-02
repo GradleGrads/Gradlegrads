@@ -27,6 +27,7 @@ https://developer.android.com/jetpack
 
 - Build Gradle
 - Gradle Wrapper 
+- Gradle 
 
 https://docs.gradle.org/current/userguide/gradle_wrapper.html#gradle_wrapper
 
