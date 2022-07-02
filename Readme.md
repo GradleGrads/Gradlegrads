@@ -155,7 +155,7 @@ Github.io domain
 
 
 <hr>
-<br>
+<hr>
 <br>
 
 <h4> App Developer Tool : Follow Link  ⏬ </h4>
@@ -165,12 +165,12 @@ Github.io domain
 - Develop Web Sites
 - Develop Mobile Apps For Mobile
 
-<hr>
+
 
 - No Need For Complex Installation 
 - Run inside browser
 
-<hr>
+
 
 <h4> Link To Follow ⏬ </h4
 
