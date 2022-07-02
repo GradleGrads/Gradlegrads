@@ -5,7 +5,7 @@
 #
 #
 
-- 🪪 Licence Gradle Grads
+- 🪪 Licence For GradleGrads
 
 #
 #
@@ -14,15 +14,18 @@
 - 🪪 Repository Licence 
 - 🪪 License to Build 
 - 🪪 License to Web 
-- 🪪 Lince to App
+- 🪪 Lincese to App
+- 🪪 License to Api 
+- 🪪 License to License 
+
 
 -------
 
  🪪 Repository Owner All Right Reserved
  
- #GradleGrads </h4>
+ GradleGrads 
  
- 2022 and becoming times ©
+ 2022 and Becoming Times License ©
 
 
 
