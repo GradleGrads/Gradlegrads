@@ -184,7 +184,7 @@ https://github.dev/
 
 
 
-<h1> Automatic Cli </h1>
+<h1> Jenkins Client </h1>
 
 
 Jenkins Plugins 
