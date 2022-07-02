@@ -175,3 +175,18 @@ Github.io domain
 <h4> Link To Follow ⏬ </h4
 
 https://github.dev/
+
+
+
+----------
+----------
+----------
+
+<h1> Automatic Cli </h1>
+
+
+# Jenkins
+
+https://www.jenkins.io/
+
+
