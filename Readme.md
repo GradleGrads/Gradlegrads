@@ -16,6 +16,8 @@ Psychic Health
 - Don't Fantasy 
 - You Might End Up Where Your Going
 - Be Open 👐 
+- Never Settle Your Self Up to Religion
+- Settle Your Self into Peace ✌️🕊️
 
 --------
 
