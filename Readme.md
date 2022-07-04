@@ -6,8 +6,12 @@ Psychic Health
 - Don't Believe Symptoms
 - Don't Believe Spiritual Voice
 - Don't Believe Mind
-- Don't Look Up To Something
-- Don't Have Faith in Fake Thoughts 🤥
+- Don't Look Up To Someone 
+- Don't Like Others Madness
+- Don't Be Slave of Others
+- Don't Be Impressed of Anything
+- Don't Become Mindsets 
+- Don't Educate Believing 
 - Don't Let Mind 📐 Measure
 - Don't Fantasy 
 - You Might End Up Where Your Going
