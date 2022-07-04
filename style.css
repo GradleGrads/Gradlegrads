@@ -218,6 +218,6 @@ body {
 }
 
 .user::before {
- background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Hz2zc6bs5XSwenctIT5FmgHaG4%26pid%3DApi&f=1');
+ background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatarfiles.alphacoders.com%2F162%2F162304.jpg&f=1&nofb=1");
   background-size: cover;
 }
