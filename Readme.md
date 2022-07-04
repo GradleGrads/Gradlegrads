@@ -1,11 +1,37 @@
 -------
 ------
 
+Psychic Health
+
+- Don't Believe Symptoms
+- Don't Believe Spiritual Voice
+- Don't Believe Mind
+- Don't Look Up To Something
+- Don't Have Faith in Fake Thoughts 🤥
+- Don't Let Mind 📐 Measure
+- Don't Fantasy 
+- You Might End Up Where Your Going
+- Be Open 👐 
+
+--------
+
+The Best Outcome = Trust Your Own Goals
+
+-------
+------
+
 <H1> GradleGrads : 📱 🎓 </h1>
 
------
 
-What is Project  ?  👋
+The Repository 📜
+
+
+- Files Setup
+- Developer Tree
+- File Structure
+- Library ingrediense
+- Gradle Build
+- Outcome 
 
 
 <h3> Answer : </H3>
