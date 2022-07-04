@@ -1,33 +1,18 @@
--------
-------
 
-Psychic Health
-
-- Don't Believe Symptoms
-- Don't Believe Spiritual Voice
-- Don't Believe Mind
-- Don't Look Up To Someone 
-- Don't Like Others Madness
-- Don't Be Slave of Others
-- Don't Be Impressed of Anything
-- Don't Become Mindsets 
-- Don't Educate Believing 
-- Don't Let Mind 📐 Measure
-- Don't Fantasy 
-- You Might End Up Where Your Going
-- Be Open 👐 
-- Never Settle Your Self Up to Religion
-- Settle Your Self into Peace ✌️🕊️
-
---------
-
-The Best Outcome = Trust Your Own Goals
-
--------
 
 <h1> Codepen </h1>
 
 - Build From Pens 
+- Download Pens
+- Build Website
+- Design in Browser 
+
+Html
+Css
+JavaScript
+
+
+- Load Npm Library into Projects 
 
 https://codepen.io/
 
