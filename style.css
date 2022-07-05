@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
 body {
   font-family: Open Sans;
+background-image: linear-gradient(#64bbcc 30%, #bbbaaa 50%, #63eeff 20%)
 }
 
 .app {
