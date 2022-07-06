@@ -4,7 +4,7 @@ Gas ⛽ Pipelines
 - Some Terroirs Could Have high Einsteins
  Intelligence
 - They Could Have Save Millions In Disaster
-Accidents by Doing So
+Accidents by Doing So Sabotage Gas Explosion 💥 on other areas
 
 - Setting Higher Security Demands and
 Avoiding Catastrophic Results
