@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
 body {
   font-family: Open Sans;
-background-image: lightblue;
+background: rgb(66,199,200);
+background: linear-gradient(146deg, rgba(66,199,200,1) 0%, rgba(70,205,208,1) 21%, rgba(53,185,190,1) 21%, rgba(77,217,224,1) 44%, rgba(42,223,209,1) 44%, rgba(147,205,255,1) 86%);
 }
 
 .app {
