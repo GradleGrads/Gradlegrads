@@ -9,7 +9,10 @@ Accidents by Doing So
 - Setting Higher Security Demands and
 Avoiding Catastrophic Results
 
+
+- And Distribution Deny Danger Explosion 💥 in Markets
+
 -----------------
 
 
-<img src="https://cdn.siasat.com/wp-content/uploads/2020/08/BLAST-1.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://cdn.siasat.com/wp-content/uploads/2020/08/BLAST-1.jpg" alt="Girl in a jacket" width="300" height="300">
