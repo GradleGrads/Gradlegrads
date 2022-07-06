@@ -14,5 +14,10 @@ Avoiding Catastrophic Results
 
 -----------------
 
+Simply Search Gas Explosion 💥 on Homes 
+And Gas Explosion Accidents on Homes and Watch 
+How full of disasters happends
+
+--------
 
 <img src="https://cdn.siasat.com/wp-content/uploads/2020/08/BLAST-1.jpg" alt="Girl in a jacket" width="300" height="300">
