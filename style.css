@@ -220,6 +220,6 @@ background: linear-gradient(146deg, rgba(66,199,200,1) 0%, rgba(70,205,208,1) 21
 }
 
 .user::before {
- background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fopensourceforu.com%2Fwp-content%2Fuploads%2F2017%2F04%2FGradle-logo.jpg%3Ffit%3D800%252C690%26ssl%3D1&f=1&nofb=1');
+ background: url('https://cdn-images-1.medium.com/max/2000/1*PGagM2HrNGhYibE-tz7lrA.png');
   background-size: cover;
 }
