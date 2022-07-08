@@ -1,3 +1,21 @@
+# <p align=center>  B I B L E
+
+
+[![Author](https://i.pinimg.com/originals/9a/4f/36/9a4f36a89e0305140122c1506c600002.jpg "Author")](https://github.com/sarafanshul "Author")
+<p align=center>This repo contains all Holy Algorithms.
+It consists of 25 pages of copy-pasteable C++ code, for use in ICPC-style programming competitions.
+
+See [kactl.pdf](https://github.com/kth-competitive-programming/kactl/blob/master/kactl.pdf) for the final, browsable version,
+and [content/](https://github.com/kth-competitive-programming/kactl/tree/master/content) for raw source code.
+
+## Aspirations
+`Forked From Kth Official repo and continued with Gaining Knowledge`
+
+Algorithms should be: useful, short, fast enough, well tested, and if relevant, readable and easy to modify.
+They should *not* be overly generic, since code is manually typed and that just adds overhead.
+Due to space issues, we also exclude algorithms that are very common/simple (e.g., Dijkstra), or very uncommon (general weighted matching).
+
+If you feel that something is missing, could be cleaned up, or notice a bug, please file an issue or [send a pull request](https://help.github.com/articles/fork-a-repo/)!
 
 
 <h1> Codepen </h1>
