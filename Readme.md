@@ -2,14 +2,7 @@
 
 
 [![Author](https://i.pinimg.com/originals/9a/4f/36/9a4f36a89e0305140122c1506c600002.jpg "Author")](https://github.com/sarafanshul "Author")
-<p align=center>This repo contains all Holy Algorithms.
-It consists of 25 pages of copy-pasteable C++ code, for use in ICPC-style programming competitions.
-
-See [kactl.pdf](https://github.com/kth-competitive-programming/kactl/blob/master/kactl.pdf) for the final, browsable version,
-and [content/](https://github.com/kth-competitive-programming/kactl/tree/master/content) for raw source code.
-
-
- 
+<p align=center>
 
 
 <h1> Codepen </h1>
