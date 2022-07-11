@@ -1,4 +1,11 @@
+<h1> We DevOps: Apache </h1>
 
+- Main Development Foundation is Apache
+- Databases and Superset and Big Data
+- Web Configs and Servers 
+- Development Structure
+- App Builds
+- Infastructure
 
 <h1> Codepen </h1>
 
