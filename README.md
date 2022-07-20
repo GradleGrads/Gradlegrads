@@ -37,4 +37,6 @@ The Files To Care About in Repository :
 
 Every Code Goes into Body links : 
 
-Code Btw Body Tags   < body >  < / body >
+Code Inside Body Tags   < body >  < / body > 
+
+Inside Html File
