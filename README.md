@@ -5,3 +5,5 @@
 - Build Android Gradle 
 
 -------- 
+
+- Gradle Graduate Factors of Self Impressions
