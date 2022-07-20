@@ -24,4 +24,7 @@ The Files To Care About in Repository :
 -----
 
 
-Web Page is Setup By This File , And Connection js file and css file into linking inside html file to preview html website
+- Web Page is Setup By This File Structure 
+-  Css File
+-  JS File
+-  Links into html file to preview html website
