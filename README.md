@@ -25,6 +25,6 @@ The Files To Care About in Repository :
 
 
 - Web Page is Setup By This File Structure 
--  Css File
--  JS File
--  Links into html file to preview html website
+-  Css File Links Into Html
+-  JS File Links into Html
+-  File Links into Html File to preview Html Website
