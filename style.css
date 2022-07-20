@@ -1,0 +1,93 @@
+/* Defult Settings */
+
+#animated-cards .card-header {
+  height: 200px;
+  background-color: #ffc107;
+}
+
+#animated-cards .service-icon {
+  font-size: 30px;
+  color: black;
+  opacity: 0.4;
+  font-size: 60px;
+}
+
+#animated-cards .heading-card {
+  margin-top: 20px;
+  font-size: 45px;
+}
+
+#animated-cards .cardheader-text {
+  color: #fff;
+}
+
+#animated-cards .card-text.sub-text-color {
+  color: #8c8c8c;
+}
+
+#animated-cards .card-text:last-child {
+  font-size: 30px;
+  color: #595959;
+}
+
+#animated-cards .cardheader-subtext {
+  font-size: 20px;
+}
+
+#animated-cards .card.cards-shadown {
+  box-shadow: 2px 2px 30px #aaaaaa;
+}
+
+#animated-cards {
+  margin: 40px;
+}
+
+#animated-cards .col {
+  padding: 20px 7px 0px 7px;
+}
+
+/* Card Hover Scale & Effect */
+
+#animated-cards .card:hover {
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  transition: all 1200ms;
+  z-index: 99;
+}
+
+#animated-cards .card {
+  transition: all 1200ms;
+  height: 100%;
+}
+
+/* Color on hover */
+
+#animated-cards .card-header:first-child:hover {
+  background-color: #fed136;
+}
+
+#animated-cards .card:hover .card-header:first-child {
+  background-color: #fed136;
+}
+
+/* Icons */
+
+#animated-cards .card:hover .service-icon {
+  -webkit-transform: translateX(10px) translateY(10px) scale(1.3);
+  -moz-transform: translateX(10px) translateY(10px) scale(1.3);
+  -o-transform: translateX(10px) translateY(10px) scale(1.3);
+  -ms-transform: translateX(10px) translateY(10px) scale(1.3);
+  transform: translateX(10px) translateY(10px) scale(1.3);
+  transition: all 1200ms;
+}
+
+#animated-cards .card .service-icon {
+  transition: all 1200ms;
+}
+
+
+
+/* Copy-right by ARiyou2000 in May2020*/
