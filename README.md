@@ -16,9 +16,10 @@ The Files To Care About in Repository :
 
 ---
 
-index.html
-script.js
-style.css 
+- index.html
+
+- script.js
+- style.css 
 
 -----
 
