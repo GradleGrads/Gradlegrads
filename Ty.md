@@ -1,5 +1,0 @@
-
-
-
-
-- 😄 Dette er Ødelagt 
