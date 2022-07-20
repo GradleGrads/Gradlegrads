@@ -1,14 +1,7 @@
-Nothing
+- Enable Build For Community 
 
-Elements
+-------
 
-Forms
+- Build Android Gradle 
 
-Monitoring
-
-Analysis 
-
-Workplace 
-
-----
-
+-------- 
