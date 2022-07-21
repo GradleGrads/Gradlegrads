@@ -35,20 +35,6 @@ The Files To Care About in Repository :
 ------------
 
 
-< Body >
-
-- Text  Code Goes Into Here 
-
--  < Script >
- 
- javascript here
- 
-< / Script >
-
-
-< / body >
-
---------------
 
 < Head > 
 
@@ -63,6 +49,8 @@ The Files To Care About in Repository :
 
 
 
+
+
 < Style > 
 
 body [
@@ -73,3 +61,23 @@ background-size: 50%
 }
 
 < / Style >
+
+
+
+--------------
+
+
+< Body >
+
+- Text  Code Goes Into Here 
+
+-  < Script >
+ 
+ javascript here
+ 
+< / Script >
+
+
+< / body >
+
+--------------
