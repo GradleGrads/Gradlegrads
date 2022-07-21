@@ -57,3 +57,19 @@ The Files To Care About in Repository :
 
 < / Head >
 
+
+
+-------------
+
+
+
+< Style > 
+
+body [
+
+background: url(imagelink ur here inside parantese without internal space); 
+background-size: 50%
+
+}
+
+< / Style >
