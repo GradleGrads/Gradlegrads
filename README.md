@@ -53,7 +53,7 @@ The Files To Care About in Repository :
 
 < Style > 
 
-body [
+body {
 
 background: url(imagelink ur here inside parantese without internal space); 
 background-size: 50%
