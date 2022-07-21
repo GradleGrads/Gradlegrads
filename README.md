@@ -35,8 +35,25 @@ The Files To Care About in Repository :
 ------------
 
 
-Every Code Goes into Body links : 
+< Body >
 
-Code Inside Body Tags   < body >  < / body > 
+- Text  Code Goes Into Here 
 
-Inside Html File
+-  < Script >
+ 
+ javascript here
+ 
+< / Script >
+
+
+< / body >
+
+--------------
+
+< Head > 
+
+- js Files Goes inside here
+- css files goes into here
+
+< / Head >
+
